@@ -19,7 +19,7 @@
 
 ## 💻  Projeto
 
-Uma aplicação web que exibi vários filmes separados por categorias.
+Uma aplicação web que mostra vários filmes separados por categorias. Desenvolvido durante a Maratona de Programação Edição VII (7° edição), evento organizado pela Kenzie Academy Brasil.
 
 [Visite o projeto online](https://antonio2812.github.io/lista-de-filmes)
 
@@ -30,18 +30,17 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML5 e CSS3
 - JavaScript
 - Git e Github
-- Figma
 
 ## 🤝  Como Contribuir
 
 ```bash
   # Clone o projeto
-  $ git clone https://github.com/antonio2812/controle-de-habitos.git
+  $ git clone https://github.com/antonio2812/lista-de-filmes.git
 ````
 
 ```bash
   # Entrar no diretório
-  $ cd controle-de-habitos
+  $ cd lista-de-filmes
 ```
 
 ```bash
@@ -81,4 +80,4 @@ Dar uma⭐️se esse projeto te ajudou ou inspirou!
 
 ## :memo:  Licença
 
-Esse projeto está sob a licença MIT. Consulte o arquivo <a href="https://github.com/antonio2812/controle-de-habitos/blob/main/LICENSE">LICENSE</a> para mais detalhes.
+Esse projeto está sob a licença MIT. Consulte o arquivo <a href="https://github.com/antonio2812/lista-de-filmes/blob/main/LICENSE">LICENSE</a> para mais detalhes.
